@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/xmly/LSN/rn-shop/node_modules/react-native/React/Base/RCTBridge.m \
+  /Users/xmly/LSN/rn-shop/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/xmly/LSN/rn-shop/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/xmly/LSN/rn-shop/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/xmly/LSN/rn-shop/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/xmly/LSN/rn-shop/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/xmly/LSN/rn-shop/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/xmly/LSN/rn-shop/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/xmly/LSN/rn-shop/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/xmly/LSN/rn-shop/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/xmly/LSN/rn-shop/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/xmly/LSN/rn-shop/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/xmly/LSN/rn-shop/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/xmly/LSN/rn-shop/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/xmly/LSN/rn-shop/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/xmly/LSN/rn-shop/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/xmly/LSN/rn-shop/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/xmly/LSN/rn-shop/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/xmly/LSN/rn-shop/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/xmly/LSN/rn-shop/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/xmly/LSN/rn-shop/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/xmly/LSN/rn-shop/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/xmly/LSN/rn-shop/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h \
+  /Users/xmly/LSN/rn-shop/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/xmly/LSN/rn-shop/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/xmly/LSN/rn-shop/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/xmly/LSN/rn-shop/node_modules/react-native/React/Base/RCTReloadCommand.h
