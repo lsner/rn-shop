@@ -9,7 +9,15 @@
   },
   "dependencies": {
     "react": "16.6.1",
-    "react-native": "0.57.7"
+    "react-native": "0.57.7",
+    "react-native-blur": "^2.0.0",
+    "react-native-deprecated-custom-components": "^0.1.2",
+    "react-native-parabolic": "^1.1.1",
+    "react-native-scrollable-tab-view": "^0.7.1",
+    "react-native-splash-screen": "^2.0.0",
+    "react-native-swiper": "^1.5.4",
+    "react-native-tab-navigator": "^0.3.3",
+    "react-native-vector-icons": "^4.0.0"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",

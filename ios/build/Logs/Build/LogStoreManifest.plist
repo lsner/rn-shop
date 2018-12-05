@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>6058FE8E-3C3C-4BDC-B1D2-D40B089693DB</key>
+		<key>004C3B7B-26D4-4F88-916F-09F6313CF5FF</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>6058FE8E-3C3C-4BDC-B1D2-D40B089693DB.xcactivitylog</string>
+			<string>004C3B7B-26D4-4F88-916F-09F6313CF5FF.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -27,13 +27,42 @@
 			<key>signature</key>
 			<string>Building project shop with scheme shop and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>565597491.76449502</real>
+			<real>565701776.68590701</real>
 			<key>timeStoppedRecording</key>
-			<real>565597503.54570794</real>
+			<real>565701798.47619998</real>
 			<key>title</key>
 			<string>Building project shop with scheme shop and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>6058FE8E-3C3C-4BDC-B1D2-D40B089693DB</string>
+			<string>004C3B7B-26D4-4F88-916F-09F6313CF5FF</string>
+		</dict>
+		<key>86E4602C-9C14-44BB-B9F5-CF433B3D31A1</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>86E4602C-9C14-44BB-B9F5-CF433B3D31A1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>shop project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>shop</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project shop with scheme shop and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>565701950.00826097</real>
+			<key>timeStoppedRecording</key>
+			<real>565701951.09312797</real>
+			<key>title</key>
+			<string>Building project shop with scheme shop and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>86E4602C-9C14-44BB-B9F5-CF433B3D31A1</string>
 		</dict>
 	</dict>
 </dict>
