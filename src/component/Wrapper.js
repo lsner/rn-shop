@@ -15,7 +15,7 @@ export default class Wrapper extends Component{
     render(){
         return(
           <View style={{flex: 1, justifyContent: 'flex-end'}}>
-              <TabView navigator={this.props.navigator}/>
+            <TabView navigator={this.props.navigator}/>
           </View>
         )
     }

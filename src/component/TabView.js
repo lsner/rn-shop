@@ -18,7 +18,6 @@ import px2dp from '../util'
 let {width, height} = Dimensions.get('window')
 import HomePage from '../pages/Home'
 import Discover from '../pages/Discover'
-import Order from '../pages/Order'
 import My from '../pages/My'
 
 export default class TabView extends Component {
@@ -29,10 +28,9 @@ export default class TabView extends Component {
         hideTabBar: false
     }
     this.tabNames = [
-      ["外卖", "logo-google", "HomePage", <HomePage {...this.props}/>],
-      ["发现", "ios-compass-outline", "Discover", <Discover {...this.props}/>],
-      ["订单", "ios-list-box-outline", "Order", <Order {...this.props}/>],
-      ["我的", "ios-contact-outline", "My", <My {...this.props}/>]
+      ["首页", "md-home", "HomePage", <HomePage {...this.props}/>],
+      ["C管家", "ios-contact-outline", "My", <My {...this.props}/>],
+      ["社交广场", "ios-compass-outline", "Discover", <Discover {...this.props}/>]
     ]
     TabView.hideTabBar = TabView.hideTabBar.bind(this)
     TabView.showTabBar = TabView.showTabBar.bind(this)
