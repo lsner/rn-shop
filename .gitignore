@@ -44,3 +44,5 @@ tsconfig.json
 package-lock.json
 isolate-*.log
 yarn.lock
+
+ios/
