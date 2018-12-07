@@ -38,7 +38,7 @@ export default class Home extends Component {
     let navigator = this.props.navigator;
     if (navigator) {
       navigator.push({
-        name: '我的也',
+        name: '我的页',
         component: My,
       });
     }

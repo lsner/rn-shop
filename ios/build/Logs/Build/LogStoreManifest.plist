@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>004C3B7B-26D4-4F88-916F-09F6313CF5FF</key>
+		<key>4C8FC3AC-A6AF-4D27-94F8-DEDF3CCF2DE1</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>004C3B7B-26D4-4F88-916F-09F6313CF5FF.xcactivitylog</string>
+			<string>4C8FC3AC-A6AF-4D27-94F8-DEDF3CCF2DE1.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -27,15 +27,15 @@
 			<key>signature</key>
 			<string>Building project shop with scheme shop and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>565701776.68590701</real>
+			<real>565864406.44343805</real>
 			<key>timeStoppedRecording</key>
-			<real>565701798.47619998</real>
+			<real>565864408.36324704</real>
 			<key>title</key>
 			<string>Building project shop with scheme shop and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>004C3B7B-26D4-4F88-916F-09F6313CF5FF</string>
+			<string>4C8FC3AC-A6AF-4D27-94F8-DEDF3CCF2DE1</string>
 		</dict>
-		<key>86E4602C-9C14-44BB-B9F5-CF433B3D31A1</key>
+		<key>54DC6BC1-8872-4E31-98C9-60A1525CA0C0</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -44,7 +44,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>86E4602C-9C14-44BB-B9F5-CF433B3D31A1.xcactivitylog</string>
+			<string>54DC6BC1-8872-4E31-98C9-60A1525CA0C0.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -56,13 +56,13 @@
 			<key>signature</key>
 			<string>Building project shop with scheme shop and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>565701950.00826097</real>
+			<real>565865262.05056</real>
 			<key>timeStoppedRecording</key>
-			<real>565701951.09312797</real>
+			<real>565865265.17616296</real>
 			<key>title</key>
 			<string>Building project shop with scheme shop and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>86E4602C-9C14-44BB-B9F5-CF433B3D31A1</string>
+			<string>54DC6BC1-8872-4E31-98C9-60A1525CA0C0</string>
 		</dict>
 	</dict>
 </dict>

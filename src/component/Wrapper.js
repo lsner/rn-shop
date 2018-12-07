@@ -7,6 +7,7 @@
 import React, { Component } from 'react'
 import { View } from 'react-native'
 import TabView from './TabView'
+import logObj  from '../util/log'
 
 export default class Wrapper extends Component{
     constructor(props){

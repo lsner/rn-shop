@@ -1,6 +1,7 @@
 import React, {Component} from 'react'
-import {Text, View, TextInput, TouchableHighlight} from 'react-native'
-import Home from 'Home'
+import {Text, View, TextInput, TouchableHighlight, StyleSheet} from 'react-native'
+import px2dp from "../util";
+import Home from './Home'
 
 export default class Login extends Component {
   constructor(props) {
@@ -12,7 +13,6 @@ export default class Login extends Component {
   }
 
   onLogin = () => {
-    console.log(this.state)
     let navigator = this.props.navigator;
     if (navigator) {
       navigator.push({
@@ -23,7 +23,6 @@ export default class Login extends Component {
   }
 
   render() {
-    console.log("this.props", this.props)
     return (
       <View style={styles.wrap}>
         <Text>My</Text>
@@ -46,10 +45,10 @@ export default class Login extends Component {
         />
 
         <TouchableHighlight
-          style={style.textCenter}
+          style={styles.textCenter}
           underlayColor='gray'
           onPress={() => this.onLogin()}>
-          <Text style={style.button}>登录</Text>
+          <Text style={styles.button}>登录</Text>
         </TouchableHighlight>
 
       </View>
@@ -79,5 +78,9 @@ const styles = StyleSheet.create({
     backgroundColor: 'white',
     justifyContent: 'center',
     alignItems: 'center',
+  },
+  button:{
+    height: 50,
+    marginTop: 50,
   }
 })
